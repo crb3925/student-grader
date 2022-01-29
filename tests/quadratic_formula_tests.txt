@@ -1,0 +1,10 @@
+{"compilation_line": 'g++ {stu_name}/quadratic_formula.cpp -o {stu_name}/{stu_name}',
+ "test_params":  ["1\n2\n-1\n",
+					"1\n2\n1\n",
+					"1\n2\n3\n"],
+ "test_output": [u'a: b: c: The roots are {0.414214, -2.41421}\n',
+					u'a: b: c: The root is {-1}\n',
+					u'a: b: c: The roots are {(-1,1.41421), (-1,-1.41421)}\n']
+}
+
+# This is a comment
